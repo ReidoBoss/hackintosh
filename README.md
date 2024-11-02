@@ -18,11 +18,18 @@ This repository is dedicated to building a stable and functional Hackintosh. A H
 ## Hardware Specifications
 
 Here are the specifications of the hardware that this Hackintosh setup was tested on. **Make sure your hardware is compatible before following the guide.**
-
+# Desktop 
 - **CPU:** i5-9600k
 - **GPU:** UHD-630
 - **Motherboard:** asrock h310cm-itx/ac
 - **RAM:** 2666mhz 16GB
+- **Storage:** Generic 125 gb SSD
+- **Wi-Fi/Bluetooth Card:** INTEL
+
+# Laptop
+- **CPU:** i5-8250u
+- **GPU:** UHD-620
+- **RAM:** 2400mhz 16GB
 - **Storage:** Generic 125 gb SSD
 - **Wi-Fi/Bluetooth Card:** INTEL
 
