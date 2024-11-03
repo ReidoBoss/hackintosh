@@ -79,5 +79,5 @@ If you encounter issues, here are some common fixes:
 - **Kernel Panic**: Verify that your `config.plist` is correctly configured.
 - **No Audio**: Check if your audio kexts are correctly installed and configured.
 - **Graphics Issues**: Ensure you have the correct GPU settings and kexts.
-- **USB Issues**: Map USB ports correctly for stability.
+- **USB Issues**: Map USB ports correctly for stability
 
