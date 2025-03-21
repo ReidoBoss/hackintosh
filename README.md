@@ -33,8 +33,6 @@ Here are the specifications of the hardware that this Hackintosh setup was teste
 - **Storage:** Generic 125 gb SSD
 - **Wi-Fi/Bluetooth Card:** INTEL
 
-> ⚠️ *Not all hardware components are compatible with macOS. Refer to resources like [tonymacx86](https://www.tonymacx86.com/) or [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) for compatibility checks.*
-
 ## Getting Started
 
 ### Prerequisites
